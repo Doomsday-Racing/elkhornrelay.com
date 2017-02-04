@@ -1,0 +1,67 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="elkhornrelay.com" resolutions="1x" timestamp="1486176027501">
+  <folder name="css">
+    <file name="site_global.css" crc="3985320758"/>
+    <file name="master_a-master.css" crc="4287984078" ref="contact:results:register:index:information"/>
+    <file name="contact.css" crc="201785485" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4016828253" ref="contact"/>
+    <file name="results.css" crc="354541314" ref="results"/>
+    <file name="iefonts_results.css" crc="313942712" ref="results"/>
+    <file name="register.css" crc="3925885525" ref="register"/>
+    <file name="iefonts_register.css" crc="4274064459" ref="register"/>
+    <file name="index.css" crc="4077929784" ref="index"/>
+    <file name="iefonts_index.css" crc="4244055700" ref="index"/>
+    <file name="information.css" crc="183003512" ref="information"/>
+    <file name="iefonts_information.css" crc="234445833" ref="information"/>
+  </folder>
+  <folder name="assets">
+    <file name="map.jpg" crc="3887944038" seo="true" mt="1414122900000"/>
+    <file name="elkhorn-relay-race-guide-2017.pdf" crc="4105684907" seo="true" mt="1486158385000"/>
+    <file name="relay-planning-guide.pdf" crc="3855485903" seo="true" mt="1486158837000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:register:information:results"/>
+    <file name="museutils.js" crc="4148063285" ref="index:contact:register:information:results"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:register:information:results"/>
+    <file name="museconfig.js" crc="172512987" ref="index:contact:register:information:results"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:contact:register:information:results"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:contact:register:information:results"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:register:information:results"/>
+    <file name="require.js" crc="4159430777" ref="index:contact:register:information:results"/>
+    <file name="webpro.js" crc="3986320349" ref="contact"/>
+    <file name="form_check.php" crc="303648844" ref="contact"/>
+    <file name="form_throttle.php" crc="236764551" ref="contact"/>
+    <file name="form_process.php" crc="4272079531" ref="contact"/>
+    <file name="form-u4326.php" crc="289458230" ref="contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="contact:register:information:results"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="141143871" ref="index"/>
+    <file name="logo.png" crc="497915230" seo="true" ref="index:contact:register:information:results"/>
+    <file name="run-for-the-hills.png" crc="4133834264" seo="true" ref="index:contact:register:information:results"/>
+    <file name="logo2.png" crc="515434846" seo="true" ref="index:contact:register:information:results"/>
+    <file name="anthony.jpg" crc="256829249" ref="index"/>
+    <file name="straightaway.png" crc="338182020" seo="true" ref="index"/>
+    <file name="mountain-roads.png" crc="3957141350" seo="true" ref="index"/>
+    <file name="wildlife.png" crc="462072914" seo="true" ref="index"/>
+    <file name="farm.png" crc="3839193184" seo="true" ref="index"/>
+    <file name="climbs.png" crc="210565767" seo="true" ref="index"/>
+    <file name="t12.jpg" crc="216052556" ref="index"/>
+    <file name="eagle caps.jpg" crc="222623760" ref="index"/>
+    <file name="contact1.png" crc="3906172428" ref="contact"/>
+    <file name="pumpkin.jpg" crc="4066607276" ref="register"/>
+    <file name="captain-bw.jpg" crc="4140149360" ref="information"/>
+    <file name="download.png" crc="187094862" seo="true" ref="information"/>
+    <file name="best western.jpg" crc="58960043" ref="information"/>
+    <file name="race-planning-guide.gif" crc="4240047022" ref="information"/>
+    <file name="mountains.jpg" crc="4261098204" ref="information"/>
+    <file name="map.jpg" crc="518820705" ref="information"/>
+    <file name="misty road.jpg" crc="68305627" ref="information"/>
+    <file name="osusuals.jpg" crc="30239020" ref="results"/>
+    <file name="team1.jpg" crc="4118838512" ref="results"/>
+  </folder>
+  <file name="index.html" crc="492146683" seo="true" mt="1486175866182" redirect="true"/>
+  <file name="contact.html" crc="4072552418" seo="true" mt="1486175772136" redirect="true"/>
+  <file name="register.html" crc="370452081" seo="true" mt="1486175772136" redirect="true"/>
+  <file name="information.html" crc="4228469945" seo="true" mt="1486175772136" redirect="true"/>
+  <file name="results.html" crc="3779104699" seo="true" mt="1486175772136" redirect="true"/>
+</manifest>
